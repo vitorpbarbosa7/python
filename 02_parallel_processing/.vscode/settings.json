@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.defaultInterpreterPath": "/Users/vpb/anaconda3/envs/python-clean/bin/python3",
+    "python.disableInstallationCheck": true
+}
