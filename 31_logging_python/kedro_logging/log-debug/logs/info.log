@@ -1,0 +1,294 @@
+2022-08-07 11:37:45,609 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 11:37:45,618 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 11:37:45,619 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 11:37:45,620 - log_debug.pipelines.logging_tests.nodes - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:37:45,621 - log_debug.pipelines.logging_tests.nodes - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:37:45,622 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:37:45,623 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:37:45,623 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:37:45,624 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 11:37:45,625 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 11:37:45,626 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:45:53,185 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 11:45:53,196 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 11:45:53,197 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 11:45:53,197 - log_debug.pipelines.logging_tests.nodes - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:45:53,198 - log_debug.pipelines.logging_tests.nodes - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:45:53,199 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:45:53,200 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:45:53,201 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:45:53,202 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 11:45:53,203 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 11:45:53,203 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:53:24,921 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 11:53:24,932 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 11:53:24,933 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 11:53:24,934 - log_debug.pipelines.logging_tests.nodes - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:53:24,935 - log_debug.pipelines.logging_tests.nodes - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:53:24,935 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:53:24,936 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:53:24,937 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:53:24,938 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 11:53:24,939 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 11:53:24,939 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:56:42,227 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 11:56:42,237 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 11:56:42,238 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 11:56:42,239 - log_debug.pipelines.logging_tests.nodes - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:56:42,239 - log_debug.pipelines.logging_tests.nodes - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:56:42,240 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:56:42,241 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:56:42,242 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:56:42,243 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 11:56:42,243 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 11:56:42,244 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:58:10,784 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 11:58:10,797 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 11:58:10,798 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 11:58:10,799 - log_debug.pipelines.logging_tests.nodes - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:58:10,800 - log_debug.pipelines.logging_tests.nodes - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:58:10,801 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:58:10,802 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:58:10,803 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 11:58:10,804 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 11:58:10,805 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 11:58:10,805 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:13:17,926 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 12:13:17,939 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 12:13:17,941 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 12:13:17,942 - log_debug - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:13:17,943 - log_debug - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:13:17,943 - log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:13:17,944 - log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:13:17,945 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:13:17,947 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 12:13:17,947 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 12:13:17,948 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:18:47,600 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 12:18:47,614 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 12:18:47,615 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 12:18:47,617 - kedro.log_debug - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:18:47,618 - kedro.log_debug - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:18:47,619 - kedro.log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:18:47,620 - kedro.log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:18:47,621 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:18:47,622 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 12:18:47,623 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 12:18:47,624 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:20:59,040 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 12:20:59,050 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 12:20:59,051 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 12:20:59,052 - kedro.log_debug - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:20:59,053 - kedro.log_debug - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:20:59,054 - kedro.log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:20:59,055 - kedro.log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:20:59,055 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:20:59,056 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 12:20:59,057 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 12:20:59,058 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:21:36,850 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 12:21:36,860 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 12:21:36,861 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 12:21:36,862 - kedro.log_debug - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:21:36,863 - kedro.log_debug - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:21:36,864 - kedro.log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:21:36,865 - kedro.log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:21:36,866 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:21:36,867 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 12:21:36,868 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 12:21:36,868 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:32:52,113 - kedro.framework.session.session - INFO - Kedro project log-debug
+2022-08-07 12:32:52,124 - kedro.io.data_catalog - INFO - Loading data from 'params:mensagem_logging' (MemoryDataSet)...
+2022-08-07 12:32:52,125 - kedro.pipeline.node - INFO - Running node: logging_debug_node: print_logs([params:mensagem_logging]) -> [dummy_string]
+2022-08-07 12:32:52,127 - log_debug - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:32:52,128 - log_debug - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:32:52,129 - log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:32:52,130 - log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:32:52,130 - kedro.io.data_catalog - INFO - Saving data to 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:32:52,131 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2022-08-07 12:32:52,132 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-08-07 12:32:52,133 - kedro.io.data_catalog - INFO - Loading data from 'dummy_string' (MemoryDataSet)...
+2022-08-07 12:39:55,852 - debug_logger - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:39:55,854 - debug_logger - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:39:55,855 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:39:55,857 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:40:43,959 - debug_logger - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:40:43,961 - debug_logger - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:40:43,962 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:40:43,964 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:41:07,684 - debug_logger - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:41:07,685 - debug_logger - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:41:07,685 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:41:07,686 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:42:01,475 - debug_logger - INFO - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:42:01,476 - debug_logger - WARNING - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:42:01,476 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:42:01,477 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+

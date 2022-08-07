@@ -1,0 +1,112 @@
+2022-08-07 11:37:45,622 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:37:45,623 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:45:53,199 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:45:53,200 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:53:24,935 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:53:24,936 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:56:42,240 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:56:42,241 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:58:10,801 - log_debug.pipelines.logging_tests.nodes - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 11:58:10,802 - log_debug.pipelines.logging_tests.nodes - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:13:17,943 - log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:13:17,944 - log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:18:47,619 - kedro.log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:18:47,620 - kedro.log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:20:59,054 - kedro.log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:20:59,055 - kedro.log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:21:36,864 - kedro.log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:21:36,865 - kedro.log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:32:52,129 - log_debug - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:32:52,130 - log_debug - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:39:55,855 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:39:55,857 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:40:43,962 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:40:43,964 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:41:07,685 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:41:07,686 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:42:01,476 - debug_logger - ERROR - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
+2022-08-07 12:42:01,477 - debug_logger - CRITICAL - ---------------------------
+MENSAGEM_DE_LOG
+---------------------------
+
