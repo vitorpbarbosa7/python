@@ -1,0 +1,64 @@
+version: 1
+
+disable_existing_loggers: False
+
+formatters:
+  simple:
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# the handlers configure if you will redirect the log message to standard output 
+# or will redirect it to a logging file .log
+handlers:
+# shows logs in standard output, at your console
+# good for developing purposes, 
+# making it verbose maybe be desirable, and you can make it changing the level
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: simple
+    stream: ext://sys.stdout
+
+  info_file_handler:
+    class: logging.handlers.RotatingFileHandler
+    level: INFO
+    formatter: simple
+    filename: logs/info.log
+    maxBytes: 10485760 # 10MB
+    backupCount: 2
+    encoding: utf8
+    delay: True
+
+  error_file_handler:
+    class: logging.handlers.RotatingFileHandler
+    level: ERROR
+    formatter: simple
+    filename: logs/errors.log
+    maxBytes: 10485760 # 10MB
+    backupCount: 2
+    encoding: utf8
+    delay: True
+
+  debug_file_handler:
+    class: logging.handlers.RotatingFileHandler
+    level: DEBUG
+    formatter: simple
+    filename: logs/debug.log
+    maxBytes: 10485760 # 10MB
+    backupCount: 2
+    encoding: utf8
+    delay: True
+
+  rich:
+    class: rich.logging.RichHandler
+
+loggers:
+#  kedro:
+#    level: INFO
+
+  debug_logger:
+    level: DEBUG
+    handlers: [debug_file_handler, info_file_handler, error_file_handler]
+
+#root:
+#  level: INFO
+#  handlers: [rich, debug_file_handler, info_file_handler, error_file_handler]
