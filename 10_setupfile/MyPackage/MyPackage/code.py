@@ -9,7 +9,7 @@ class DummyClass:
 		'''
 		Shows data from a pandas dataframe
 		'''
-		data = pd.read_csv("data/data.csv")
+		data = pd.read_csv("../data/data.csv")
 		print(data)
 
 	def show_word(self):

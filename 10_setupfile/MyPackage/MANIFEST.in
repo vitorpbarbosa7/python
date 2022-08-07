@@ -1,1 +1,1 @@
-recursive-include MyPackage *.csv
+recursive-include .. *.csv
